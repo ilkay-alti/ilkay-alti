@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/ilkay_alti" target="blank"><img src="https://img.shields.io/twitter/follow/ilkay_alti?logo=twitter&style=for-the-badge" alt="ilkay_alti" /></a> </p>
 
-- 🔭 I’m currently working on **Instagram Bot**
+- 🔭 I’m currently working on **Spotify Bot**
 
 - 🌱 I’m currently learning **Python**
 
