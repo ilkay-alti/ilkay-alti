@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm İlkay</h1>
-<h3 align="center">I'm İlkay from Poland, and I do content on Design and Development. I really enjoy learning languages and frameworks like React and React Native, as well as work in WordPress. I also enjoy wireframing, ui, ux, and design in general.</h3>
+<h3 align="center">I like making things that help out people in any way possible. I am a CompSci student doing my undergrad, and I like to work on some fun projects in my free time :)</h3>
 
 - 📫 How to reach me **ilkayalti@hotmail.com**
 
